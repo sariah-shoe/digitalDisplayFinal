@@ -1,0 +1,5 @@
+db.sqlite3
+backend/notes.txt
+backend/.env
+Dockerfile
+requirements.txt
